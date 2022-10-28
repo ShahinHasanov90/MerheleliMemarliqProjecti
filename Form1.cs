@@ -35,7 +35,7 @@ namespace Merheleli_Memarliq_Projecti
             ntr.Maas = short.Parse(txtmaas.Text);
             ntr.Seher = txtshr.Text;
             LogicPersonal.llPersonal(ntr);
-            MessageBox.Show("Lucky");
+            
         }
 
         private void button3_Click(object sender, EventArgs e)
