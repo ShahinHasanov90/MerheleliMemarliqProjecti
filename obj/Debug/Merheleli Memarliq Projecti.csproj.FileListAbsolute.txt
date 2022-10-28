@@ -1,0 +1,18 @@
+F:\VS2022 PROJECTS\Merheleli Memarliq Projecti\bin\Debug\Merheleli Memarliq Projecti.exe.config
+F:\VS2022 PROJECTS\Merheleli Memarliq Projecti\bin\Debug\Merheleli Memarliq Projecti.exe
+F:\VS2022 PROJECTS\Merheleli Memarliq Projecti\bin\Debug\Merheleli Memarliq Projecti.pdb
+F:\VS2022 PROJECTS\Merheleli Memarliq Projecti\bin\Debug\DataAccessLayer.dll
+F:\VS2022 PROJECTS\Merheleli Memarliq Projecti\bin\Debug\Entity Layers.dll
+F:\VS2022 PROJECTS\Merheleli Memarliq Projecti\bin\Debug\LogicLayer.dll
+F:\VS2022 PROJECTS\Merheleli Memarliq Projecti\bin\Debug\DataAccessLayer.pdb
+F:\VS2022 PROJECTS\Merheleli Memarliq Projecti\bin\Debug\Entity Layers.pdb
+F:\VS2022 PROJECTS\Merheleli Memarliq Projecti\bin\Debug\LogicLayer.pdb
+F:\VS2022 PROJECTS\Merheleli Memarliq Projecti\obj\Debug\Merheleli Memarliq Projecti.csproj.AssemblyReference.cache
+F:\VS2022 PROJECTS\Merheleli Memarliq Projecti\obj\Debug\Merheleli Memarliq Projecti.csproj.SuggestedBindingRedirects.cache
+F:\VS2022 PROJECTS\Merheleli Memarliq Projecti\obj\Debug\Merheleli_Memarliq_Projecti.Form1.resources
+F:\VS2022 PROJECTS\Merheleli Memarliq Projecti\obj\Debug\Merheleli_Memarliq_Projecti.Properties.Resources.resources
+F:\VS2022 PROJECTS\Merheleli Memarliq Projecti\obj\Debug\Merheleli Memarliq Projecti.csproj.GenerateResource.cache
+F:\VS2022 PROJECTS\Merheleli Memarliq Projecti\obj\Debug\Merheleli Memarliq Projecti.csproj.CoreCompileInputs.cache
+F:\VS2022 PROJECTS\Merheleli Memarliq Projecti\obj\Debug\Merheleli Memarliq Projecti.csproj.CopyComplete
+F:\VS2022 PROJECTS\Merheleli Memarliq Projecti\obj\Debug\Merheleli Memarliq Projecti.exe
+F:\VS2022 PROJECTS\Merheleli Memarliq Projecti\obj\Debug\Merheleli Memarliq Projecti.pdb
